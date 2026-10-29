@@ -1,0 +1,53 @@
+Python 3.14.7 (v3.14.7:823f0323ee6, Aug  5 2026, 07:07:01) [Clang 21.0.0 (clang-2100.1.1.101)] on darwin
+Enter "help" below or click "Help" above for more information.
+
+= RESTART: /Users/latifahgrant1/Desktop/Project3A.py/Project3A-Dictionaries_Sets.py
+
+Task 3: Union of the Sets
+{'Pittsburgh', 'Baltimore', 'Philadelphia', 'Harrisburg', 'Erie', 'Newark', 'Allentown', 'York', 'Washington'}
+
+Task 4: Intersection of the Sets
+{'Harrisburg', 'Pittsburgh', 'Erie', 'Philadelphia'}
+
+Task 5: NFL Teams
+Eagles - Philadelphia
+Bills - Buffalo
+Dolphins - Miami
+Patriots - New England
+Jets - New York
+Commanders - Washington
+
+NBA Teams
+76ers - Philadelphia
+Lakers - Los Angeles
+Celtics - Boston
+Bulls - Chicago
+Heat - Miami
+Warriors - Golden State
+
+Task 6: NFL Team Names
+dict_keys(['Eagles', 'Bills', 'Dolphins', 'Patriots', 'Jets', 'Commanders'])
+
+NBA Team Names
+dict_keys(['76ers', 'Lakers', 'Celtics', 'Bulls', 'Heat', 'Warriors'])
+
+Task 7: NFL Cities
+dict_values(['Philadelphia', 'Buffalo', 'Miami', 'New England', 'New York', 'Washington'])
+
+NBA Cities
+dict_values(['Philadelphia', 'Los Angeles', 'Boston', 'Chicago', 'Miami', 'Golden State'])
+
+Task 8: Merged Dictionaries
+{'Eagles': 'Philadelphia', 'Bills': 'Buffalo', 'Dolphins': 'Miami', 'Patriots': 'New England', 'Jets': 'New York', 'Commanders': 'Washington', '76ers': 'Philadelphia', 'Lakers': 'Los Angeles', 'Celtics': 'Boston', 'Bulls': 'Chicago', 'Heat': 'Miami', 'Warriors': 'Golden State'}
+
+Task 9: Updated NFL Dictionary
+{'Eagles': 'Philadelphia', 'Bills': 'Buffalo', 'Dolphins': 'Miami', 'Patriots': 'New England', 'Jets': 'New York', 'Commanders': 'Washington', '76ers': 'Philadelphia', 'Lakers': 'Los Angeles', 'Celtics': 'Boston', 'Bulls': 'Chicago', 'Heat': 'Miami', 'Warriors': 'Golden State'}
+
+Task 10: Symmetric Difference
+{'Allentown', 'Baltimore', 'Newark', 'York', 'Washington'}
+
+Task 11: Subset and Superset Checks
+Is pa_cities a subset of midatlantic_cities?
+False
+Is midatlantic_cities a superset of pa_cities?
+False
